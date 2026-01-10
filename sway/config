@@ -38,8 +38,6 @@ input * {
 gaps inner 8
 gaps outer 1
 
-# Picom
-exec picom
 
 # Title
 for_window [class="^.*"] border pixel 2
