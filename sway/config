@@ -7,6 +7,8 @@ font pango:JetBrainsMono Regular 8
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment sway
 
+exec dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
+
 # wallpaper
 output * bg ~/.config/sway/wallpapers.webp fill
 # Layout
