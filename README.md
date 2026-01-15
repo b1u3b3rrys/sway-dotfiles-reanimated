@@ -13,7 +13,7 @@ sway, wofi, mako, adw-gtk-theme, swaybg, grim, kitty, thunar, ttf-iosevka-nerd, 
 ```
 git clone https://github.com/wirosmango/sway-dotfiles.git
 cd sway-dotfiles
-cp -r * ~/.config
+cp -r * ~/
 ```
 
 **Done!**
