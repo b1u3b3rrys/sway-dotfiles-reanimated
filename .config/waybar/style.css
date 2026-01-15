@@ -70,8 +70,8 @@ window#waybar {
 }
 
 #pulseaudio.muted {
-    background: #90b1b1;
-    color: #2a5c45;
+    background:  #565f89;
+    color: #f7768e;
 }
 
 #custom-mpd {
