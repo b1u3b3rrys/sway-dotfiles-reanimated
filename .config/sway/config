@@ -5,7 +5,7 @@ set $up k
 set $right l
 
 set $term foot
-set $menu wofi --show drun -i
+set $menu rofi -show drun -i
 set $browser firefox
 set $fmanager thunar
 set $pmenu bash ~/.config/wofi/powermenu.sh
