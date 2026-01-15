@@ -1,15 +1,12 @@
 # sway-dotfiles
 My dotfiles for swaywm
 
-<img width="1920" height="1080" alt="2026-01-10-161338_hyprshot" src="https://github.com/user-attachments/assets/2fd6f7be-ec89-468e-9bad-5705c6d55df3" />
+<img width="1920" height="1080" alt="screenshot" src="https://github.com/user-attachments/assets/eb5ee22e-1007-4a0a-927f-3506c407162a" />
 
-# **Screen record**
-
-https://github.com/user-attachments/assets/3cd60a20-343b-48e1-a3a5-048651367c54
 
 # **Dependencies**
 ```
-sway, wofi, mako, fastfetch, i3status, swaybg, hyprshot/flameshot, kitty, thunar, ttf-jetbrains-mono
+sway, wofi, mako, adw-gtk-theme, swaybg, grim, kitty, thunar, ttf-iosevka-nerd, xdg-desktop-portal, xdg-desktop-portal-wlr #screen casting
 ```
 
 # **Installation**
