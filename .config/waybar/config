@@ -21,10 +21,11 @@
         "spacing": 10
     },
     "clock#1": {
-        "tooltip-format": "{:%Y-%m-%d | %H:%M}"
+        "format": "󰥔  {:%H:%M}",
+        "tooltip-format": "󰥔  {:%Y-%m-%d | %H:%M}"
     },
 	"clock#2": {
-		"format": "{:%d. %B %Y}",
+		"format": " {:%d. %B %Y}  󰃭 ",
 		 "tooltip-format": "{:%Y-%m-%d | %H:%M}"
 
 	},
@@ -54,7 +55,7 @@
             "car": "",
             "default": ["", ""]
         },
-        "on-click": "pavucontrol"
+        "on-click": "foot -e wiremix"
     },
     "mpris": {
      	"format": "{status_icon} {artist} - {title}",
@@ -89,3 +90,4 @@
 		"tooltip": false
 	},
 }
+// 
